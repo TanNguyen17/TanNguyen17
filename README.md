@@ -15,22 +15,13 @@ Here are some ideas to get you started:
 
 <h1>Hi 👋, I'm Tan</h1>
 <p>🚀 Aspiring Software Developer | Tech Enthusiast | Problem Solver  I’m passionate about building scalable and efficient applications, exploring AI-powered solutions, and constantly learning new technologies. My experience spans full-stack development, microservices architecture, and cloud-based applications</p>
-💻 Notable Projects
-🧠 Mindary
+<h2>💻 Notable Projects</h3>
+<h4>🧠 Mindary</h4>
 🚀 A mental wellness app using AI-powered journal analysis to provide users with insights and personalized recommendations.
 🔹 Tech Stack: Flutter, Node.js, Spring Boot, Spring Security, LangchainJS, MongoDB
 🔹 Key Features: LLM-driven sentiment analysis, user authentication, and microservices-based architecture
 🔹 🏆 Achievements: Top 28 at Swin Hackathon 2024, Top 15 in RMIT AI for Sustainability Competition
 
-🏠 Rental Management System
-📌 A full-stack desktop application for managing rental agreements, payments, and user profiles.
-🔹 Tech Stack: Java, JavaFX, Hibernate, NeonDB
-🔹 Key Features: CRUD operations, automated payment generation, pagination, thread loading for better performance
-
-🌍 Greeli Forum
-💬 A community-driven forum where users can create posts under specific topics, connect with others, and engage in discussions.
-🔹 Tech Stack: React.js, Node.js, Express.js, MongoDB
-🔹 Key Features: User authentication, real-time chat, admin verification for posts
 <h2>🔧 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
