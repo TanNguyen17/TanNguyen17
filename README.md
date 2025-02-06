@@ -17,10 +17,18 @@ Here are some ideas to get you started:
 <p>🚀 Aspiring Software Developer | Tech Enthusiast | Problem Solver  I’m passionate about building scalable and efficient applications, exploring AI-powered solutions, and constantly learning new technologies. My experience spans full-stack development, microservices architecture, and cloud-based applications</p>
 <h2>💻 Notable Projects</h3>
 <h4>🧠 Mindary</h4>
-🚀 A mental wellness app using AI-powered journal analysis to provide users with insights and personalized recommendations.
-🔹 Tech Stack: Flutter, Node.js, Spring Boot, Spring Security, LangchainJS, MongoDB
-🔹 Key Features: LLM-driven sentiment analysis, user authentication, and microservices-based architecture
-🔹 🏆 Achievements: Top 28 at Swin Hackathon 2024, Top 15 in RMIT AI for Sustainability Competition
+<p>🚀 A mental wellness app using AI-powered journal analysis to provide users with insights and personalized recommendations.</p>
+<ul>
+  <li>
+    🔹 Tech Stack: Flutter, Node.js, Spring Boot, Spring Security, LangchainJS, MongoDB
+  </li>
+  <li>
+    🔹 Key Features: LLM-driven sentiment analysis, user authentication, and microservices-based architecture
+  </li>
+  <li>
+    🔹 🏆 Achievements: Top 28 at Swin Hackathon 2024, Top 15 in RMIT AI for Sustainability Competition
+  </li>
+</ul>
 
 <h2>🔧 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
